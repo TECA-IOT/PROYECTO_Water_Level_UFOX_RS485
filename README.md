@@ -24,4 +24,23 @@
   "seqNumber": {seqNumber}
 }
 
+##  DATA
+- device: ID de dispositivo (SigfoxBackend)
+- s1: sensor 1 (24bits)
+- s2: sensor 2 (24bits)
+- s3: sensor 3 (16bits).
+- s4: sensor 4 (16bits)
+- reboot: bool, bandera que inidica reinicio.
+- rsv1  boo,l valor reservado.
+- fraude: bool, bandera que indica fraude.
+- b5:  digital bit5.
+- b4:  digital bit4.
+- b3:  digital bit3.
+- b2:  digital bit2.
+- b1:  digital bit1.
+- bateria: valor de bateria milivolts (1byte)
+- timestamp: tiempo unix (SigfoxBackend)
+- seqNumber: numero de sequence mensaje(SigfoxBackend)
+
+
 
