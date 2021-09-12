@@ -43,4 +43,6 @@
 - seqNumber: numero de sequence mensaje(SigfoxBackend)
 
 
+# Esquemático
 
+![](https://github.com/TECA-IOT/Water_Level_UFOX_RS485/blob/main/Image/esquematico%20rs485_shieldUfox_sonda_nivel_bb.png)
