@@ -31,13 +31,13 @@
 - s3: sensor 3 (16bits).
 - s4: sensor 4 (16bits)
 - reboot: bool, bandera que inidica reinicio.
-- rsv1  boo,l valor reservado.
+- rsv1  bool, valor reservado.
 - fraude: bool, bandera que indica fraude.
-- b5:  digital bit5.
-- b4:  digital bit4.
-- b3:  digital bit3.
-- b2:  digital bit2.
-- b1:  digital bit1.
+- b5:  bool, digital bit5.
+- b4:  bool, digital bit4.
+- b3:  bool, digital bit3.
+- b2:  bool, digital bit2.
+- b1:  bool, digital bit1.
 - bateria: valor de bateria milivolts (1byte)
 - timestamp: tiempo unix (SigfoxBackend)
 - seqNumber: numero de sequence mensaje(SigfoxBackend)
