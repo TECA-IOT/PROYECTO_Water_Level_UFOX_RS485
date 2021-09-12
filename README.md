@@ -2,6 +2,9 @@
 
 ## CALLBACK SIGFOX (Custom payload config)
 - s1::uint:24 s2::uint:24 s3::uint:16 s4::uint:16 reboot::bool:7 rsv1_bool::bool:6 fraude::bool:5 b5::bool:4 b4::bool:3 b3::bool:2 b2::bool:1 b1::bool:0 SumBoles::uint:8 bat::uint:8
+
+![](https://github.com/TECA-IOT/Water_Level_UFOX_RS485/blob/main/Image/Device%20data.PNG)
+
  ## JSON DATA CALLBACK
  - POST METHOD
  - Content Type: application/json
