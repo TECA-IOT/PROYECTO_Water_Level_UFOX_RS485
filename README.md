@@ -5,7 +5,7 @@
  ## JSON DATA CALLBACK
  - POST METHOD
  - Content Type: application/json
- { 
+ - { 
   "device" : "{device}",
   "s1":{customData#s1},
   "s2":{customData#s2},
