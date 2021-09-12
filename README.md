@@ -29,7 +29,7 @@
 
 ##  DATA
 - device: ID de dispositivo (SigfoxBackend)
-- s1: sensor 1 (24bits)
+- s1: sensor 1 (24bits) - data sensor de nivel en milimetros
 - s2: sensor 2 (24bits)
 - s3: sensor 3 (16bits).
 - s4: sensor 4 (16bits)
